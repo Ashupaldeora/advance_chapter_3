@@ -7,7 +7,7 @@ AppBar WebViewAppBar(WebProvider providerTrue, WebProvider providerFalse) {
   return AppBar(
     toolbarHeight: 90,
     title: SizedBox(
-      height: 40,
+      height: 41,
       child: TextField(
         onSubmitted: (value) {
           providerFalse.updateSearchedText(value);
