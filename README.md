@@ -56,8 +56,48 @@ if (connectivityResult.contains(ConnectivityResult.wifi)) {
 
 ###
 <div align="center">
-<a href="https://github.com/Ashupaldeora/adv_flutter_ch2/blob/master/lib/screens/date_picker/android/view/date_picker_screen.dart">-> See The Code <-</a>
+<a href="https://github.com/Ashupaldeora/advance_chapter_3/tree/master/lib/screens/home">-> See The Code <-</a>
 </div>
+
+
+
+<h3 align="center"><i>3.2  Chrome : flutter_inappwebview Package</i></h3>
+<h1></h1>
+
+# Flutter InAppWebView Plugin
+
+The **Flutter InAppWebView** plugin allows you to:
+
+1. Add an inline webview within your Flutter app.
+2. Use a headless webview (without a visible UI).
+3. Open an in-app browser window.
+
+## Key Features
+
+- **Inline Webview**: Embed a webview directly within your app.
+- **Headless Webview**: Utilize a webview without a visible UI.
+- **In-App Browser**: Open external URLs in an in-app browser window.
+
+
+
+
+<div align="center">
+  
+  
+  <video src="https://github.com/Ashupaldeora/advance_chapter_3/assets/143180848/fae481b7-e51e-4716-9d74-e5ef00ffdb39"></video>
+  
+</div>
+
+
+
+###
+<div align="center">
+<a href="https://github.com/Ashupaldeora/advance_chapter_3/tree/master/lib/screens/web_view">-> See The Code <-</a>
+</div>
+
+
+
+
 
 
 
